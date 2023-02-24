@@ -8,14 +8,15 @@ namespace Solid_L
 {
     public class Liskov_broken
     {
-        //descomentar éste main y comentar el de Liskov_ok para probar
-        /*static void Main(string[] args)
-        {          
-            AbstractSale abstractSale = new Sale(12, "Felix", 0.40m);
-            abstractSale.CalculateTaxes();
-            abstractSale.Generate();
-            Console.ReadKey();
-        }*/
+        //descomentar main para probar
+
+        //static void Main(string[] args)
+        //{
+        //    AbstractSale abstractSale = new Sale(12, "Felix", 0.40m);
+        //    abstractSale.CalculateTaxes();
+        //    abstractSale.Generate();
+        //    Console.ReadKey();
+        //}
         public abstract class AbstractSale
         {
             protected decimal amount;

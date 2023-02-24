@@ -8,17 +8,17 @@ namespace Solid_L
 {
     class Liskov_ok
     {
-        static void Main(string[] args)
-        {
-            AbstractSaleWithTaxes abstractSale = new SaleWithTaxes(12, "Felix", 0.40m);
-            abstractSale.CalculateTaxes();
-            abstractSale.Generate();
-            AbstractSale abstractSaleTaxFree = new TaxFreeSale(12, "Felix");
-            abstractSale.Generate();
+        //static void Main(string[] args)
+        //{
+        //    AbstractSaleWithTaxes abstractSale = new SaleWithTaxes(12, "Felix", 0.40m);
+        //    abstractSale.CalculateTaxes();
+        //    abstractSale.Generate();
+        //    AbstractSale abstractSaleTaxFree = new TaxFreeSale(12, "Felix");
+        //    abstractSale.Generate();
 
             
-            Console.ReadKey();
-        }
+        //    Console.ReadKey();
+        //}
         public abstract class AbstractSale
         {
             protected string customer;

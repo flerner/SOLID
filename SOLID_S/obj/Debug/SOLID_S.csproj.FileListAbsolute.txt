@@ -1,0 +1,8 @@
+E:\Quark\Solid\SOLID_S\bin\Debug\SOLID_S.exe.config
+E:\Quark\Solid\SOLID_S\bin\Debug\SOLID_S.exe
+E:\Quark\Solid\SOLID_S\bin\Debug\SOLID_S.pdb
+E:\Quark\Solid\SOLID_S\obj\Debug\SOLID_S.csproj.AssemblyReference.cache
+E:\Quark\Solid\SOLID_S\obj\Debug\SOLID_S.csproj.SuggestedBindingRedirects.cache
+E:\Quark\Solid\SOLID_S\obj\Debug\SOLID_S.csproj.CoreCompileInputs.cache
+E:\Quark\Solid\SOLID_S\obj\Debug\SOLID_S.exe
+E:\Quark\Solid\SOLID_S\obj\Debug\SOLID_S.pdb
