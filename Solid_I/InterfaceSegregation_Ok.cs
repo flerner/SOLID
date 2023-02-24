@@ -8,20 +8,24 @@ namespace Solid_I
 {
     class InterfaceSegregation_Ok
     {
-        static void Main(string[] args)
-        {
-            Bill bill = new Bill(1000, 1, DateTime.Now);
+        //uncomment main for testing
 
-            bill.Print();
+        //static void Main(string[] args)
+        //{
+        //    Bill bill = new Bill(1000, 1, DateTime.Now);
 
-            ElectronicBill eb = new ElectronicBill("qwe@rty.uiop", 2, DateTime.Now);
-            eb.Print();
-            eb.SendByEmail();
+        //    bill.Print();
+
+        //    ElectronicBill eb = new ElectronicBill("qwe@rty.uiop", 2, DateTime.Now);
+        //    eb.Print();
+        //    eb.SendByEmail();
             
-            Console.ReadKey();
+        //    Console.ReadKey();
 
-        }
-        //so, if we divide this interface in two
+            
+
+        //}
+        //so, if we divide the interfaces in two
         public interface Printable
         {
             void Print();
