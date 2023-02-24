@@ -1,7 +1,7 @@
 # SOLID
 Solid examples
 
-This project aims to review the rules of SOLID rules.
+This project aims to review the rules of SOLID.
 
 This solution has five projects, one for each rule, and each project is divided in two main classes, one with an example that break de rule (NameOfRule+Broken)
 and another that fix the problems by apllying the rule (NameOfRule+OK), for example SingleResponsabilityBroken and SingleResponsabilityOk
