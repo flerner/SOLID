@@ -16,7 +16,7 @@ namespace Solid_L
         //    AbstractSale abstractSaleTaxFree = new TaxFreeSale(12, "Felix");
         //    abstractSale.Generate();
 
-            
+
         //    Console.ReadKey();
         //}
         public abstract class AbstractSale

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid_L", "Solid\Solid_L.csproj", "{E36EB929-7CD1-402C-8C7C-E0E36CC1694F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid_L", "Solid_L\Solid_L.csproj", "{E36EB929-7CD1-402C-8C7C-E0E36CC1694F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid_S", "SOLID_S\Solid_S.csproj", "{817BA278-161C-4DC8-BFE2-B0479746B8A9}"
 EndProject
